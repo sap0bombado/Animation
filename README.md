@@ -8,11 +8,17 @@ It simplifies loading, storing, and playing animation tracks on a Humanoid, whil
 
 ## Installation
 
-Add the module to your project (e.g., in `ReplicatedStorage`), then require it:
+Wally:
+```toml
+    [dependencies]
+    animation = "sap0bombado/animation@1.0.0"
+```
 
+Add the module to your project then require it:
 ```lua
 local Animation = require(path.to.Animation)
 ```
+
 ---
 
 ## Usage Example

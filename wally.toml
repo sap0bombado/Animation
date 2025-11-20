@@ -1,0 +1,9 @@
+[package]
+name = "sap0bombado/animation"
+description = "A wrapper for loading animations"
+version = "1.0.0"
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["**"]
+include = ["src", "src/**", "wally.toml", "LICENSE"]
